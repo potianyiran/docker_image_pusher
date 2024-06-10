@@ -5,7 +5,7 @@ amilys/embyserver
 mondedie/flarum:stable
 nyanmisaka/jellyfin
 superng6/aria2
-amtoaer/bili-ync
+amtoaer/bili-sync
 chishin/nginx-proxy-manager-zh:release
 metatube/metatube-server
 xhongc/music_tag_web
