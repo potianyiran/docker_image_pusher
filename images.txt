@@ -1,6 +1,6 @@
 mariadb
 xhofe/alist
-alohub/halo:2.15
+halohub/halo:2.15
 amilys/embyserver
 mondedie/flarum:stable
 nyanmisaka/jellyfin
