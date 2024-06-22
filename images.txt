@@ -3,7 +3,7 @@ xhofe/alist
 halohub/halo:2.15
 amilys/embyserver
 mondedie/flarum:stable
-nyanmisaka/jellyfin
+jellyfin/jellyfin
 superng6/aria2
 amtoaer/bili-sync
 chishin/nginx-proxy-manager-zh:release
