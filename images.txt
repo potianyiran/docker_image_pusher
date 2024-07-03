@@ -11,3 +11,4 @@ metatube/metatube-server
 xhongc/music_tag_web
 adolfintel/speedtest
 cnk3x/xunlei
+metacubex/mihomo
